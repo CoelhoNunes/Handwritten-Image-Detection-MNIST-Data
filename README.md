@@ -1,0 +1,2 @@
+# Handwritten-Image-Detection-MNIST-Data
+In this exercise I will work with image data: specifically the famous MNIST data set. This data set contains 70,000 images of handwritten digits in grayscale (0=black, 255 = white). The images are 28 pixels by 28 pixels for a total of 784 pixels. This is quite small by image standards. Also, the images are well centered and isolated. This makes this problem solvable with standard fully connected neural nets without too much pre-work.
